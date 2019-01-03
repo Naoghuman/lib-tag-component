@@ -24,6 +24,7 @@ TODO
 
 
 #### Documentation
+#5 [doc] Create new folder 'concept' with the template for the concepts.
 #4 [doc] Create new folder 'release' with the template for release-note.
 
 
