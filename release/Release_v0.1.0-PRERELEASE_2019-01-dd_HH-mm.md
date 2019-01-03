@@ -11,12 +11,13 @@ TODO
 
 
 #### Feature
+#7 [api] Concept the GitHub project with Travis CI.
+#6 [api] Update pom.xml to fit the minimal conditions for Maven Central.
+#3 [api] Implement basic library structure.
 
 
 
 #### Enhancement
-#6 [api] Update pom.xml to fit the minimal conditions for Maven Central.
-#3 [api] Implement basic library structure.
 
 
 
