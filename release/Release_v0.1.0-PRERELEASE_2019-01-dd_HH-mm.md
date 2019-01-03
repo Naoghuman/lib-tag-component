@@ -15,6 +15,7 @@ TODO
 
 
 #### Enhancement
+#6 [api] Update pom.xml to fit the minimal conditions for Maven Central.
 #3 [api] Implement basic library structure.
 
 
