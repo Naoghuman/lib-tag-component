@@ -1,6 +1,11 @@
 Lib-Tag-Component
 ===
 
+[![Build Status](https://travis-ci.org/Naoghuman/lib-tag-component.svg?branch=master)](https://travis-ci.org/Naoghuman/lib-tag-component)
+[![license: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub release](https://img.shields.io/github/release/Naoghuman/lib-tag-component.svg)](https://GitHub.com/Naoghuman/lib-tag-component/releases/)
+
+
 
 
 Intention
@@ -140,5 +145,5 @@ You can reach me under <peter.rogge@yahoo.de>.
 [NetBeans]:https://netbeans.org/
 [Overview]:https://github.com/Naoghuman/lib-tag-component/releases
 [Pull Request]:https://help.github.com/articles/using-pull-requests
-[Release v0.1.0-PRERELEASE]:https://github.com/Naoghuman/lib-i18n/releases/tag/v0.1.0-PRERELEASE
+[Release v0.1.0-PRERELEASE]:https://github.com/Naoghuman/lib-tag-component/releases/tag/v0.1.0-PRERELEASE
 [Scene Builder]:https://gluonhq.com/products/scene-builder/

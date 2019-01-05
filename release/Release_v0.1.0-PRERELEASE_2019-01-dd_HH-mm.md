@@ -26,6 +26,7 @@ TODO
 
 
 #### Documentation
+#9 [doc] Add badges from img.shield.io to the ReadMe.
 #8 [doc] Add minimal documentation structure to the ReadMe.
 #5 [doc] Create new folder 'concept' with the template for the concepts.
 #4 [doc] Create new folder 'release' with the template for release-note.
